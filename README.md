@@ -1,1 +1,1 @@
-# github_studing_repository
+# github_takumi_repository
